@@ -13,6 +13,7 @@
 		7C0C4EFD2642DDB800376F0D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C0C4EFB2642DDB800376F0D /* Main.storyboard */; };
 		7C0C4EFF2642DDB900376F0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C0C4EFE2642DDB900376F0D /* Assets.xcassets */; };
 		7C0C4F022642DDB900376F0D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C0C4F002642DDB900376F0D /* LaunchScreen.storyboard */; };
+		7C0C4F0A2642E57E00376F0D /* ImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C0C4F092642E57E00376F0D /* ImageCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7C0C4EFE2642DDB900376F0D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C0C4F012642DDB900376F0D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C0C4F032642DDB900376F0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7C0C4F092642E57E00376F0D /* ImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7C0C4EF52642DDB800376F0D /* AppDelegate.swift */,
 				7C0C4EF72642DDB800376F0D /* SceneDelegate.swift */,
 				7C0C4EF92642DDB800376F0D /* ViewController.swift */,
+				7C0C4F092642E57E00376F0D /* ImageCollectionViewCell.swift */,
 				7C0C4EFB2642DDB800376F0D /* Main.storyboard */,
 				7C0C4EFE2642DDB900376F0D /* Assets.xcassets */,
 				7C0C4F002642DDB900376F0D /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				7C0C4EFA2642DDB800376F0D /* ViewController.swift in Sources */,
 				7C0C4EF62642DDB800376F0D /* AppDelegate.swift in Sources */,
+				7C0C4F0A2642E57E00376F0D /* ImageCollectionViewCell.swift in Sources */,
 				7C0C4EF82642DDB800376F0D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
